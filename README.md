@@ -8,7 +8,7 @@ Ding Cao Jie; <br>
 Lee Wai Lun; <br>
 Tan Kye Wen
 
-#Run the system
+# Run the system
 
 1. Make sure c++ and all related c++ packages are installed
 2. Fork or download the files in this repository
