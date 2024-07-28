@@ -1,11 +1,11 @@
-#Programming and Problem Solving Assignment
+# Programming and Problem Solving Assignment
 
 Parcel Locker Service System
 
 This was an assignment done by 3 other teammates and me:
-Lee Zhan Jun
-Ding Cao Jie
-Lee Wai Lun
+Lee Zhan Jun; <br>
+Ding Cao Jie; <br>
+Lee Wai Lun; <br>
 Tan Kye Wen
 
 #Run the system
